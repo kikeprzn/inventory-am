@@ -7,8 +7,8 @@
     "start": "electron ."
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Enrique Pérez",
+  "license": "MIT",
   "dependencies": {
     "electron": "^9.1.2",
     "electron-reload": "^1.5.0",
